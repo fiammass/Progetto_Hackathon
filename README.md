@@ -37,8 +37,6 @@ Critical operations are automated using Stored Procedures to handle transactions
 
 ## 🗄️ Conceptual Schema (E-R)
 Diagramma ristrutturato espresso tramite i formalismi dell'UML
-<img width="1816" height="1038" alt="immagine" src="https://github.com/user-attachments/assets/3f1e0ba6-22d8-4b6f-97cb-6de4c4093d91" />
-
 ![UML Schema](./diagramma.png) 
 
 
