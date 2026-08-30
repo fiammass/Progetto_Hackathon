@@ -39,8 +39,8 @@ Critical operations are automated using Stored Procedures to handle transactions
 Diagramma ristrutturato espresso tramite i formalismi dell'UML
 <img width="1816" height="1038" alt="immagine" src="https://github.com/user-attachments/assets/3f1e0ba6-22d8-4b6f-97cb-6de4c4093d91" />
 
-![UML Schema](./uml_schema_placeholder.png) 
-*(Note: Replace `uml_schema_placeholder.png` with the actual filename of your diagram)*
+![UML Schema](./diagramma.png) 
+
 
 ---
 
